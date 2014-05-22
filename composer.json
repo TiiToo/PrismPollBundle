@@ -1,9 +1,9 @@
 {
-    "name": "prism/poll-bundle",
+    "name": "tito/poll-bundle",
     "type": "symfony-bundle",
     "description": "A simple poll bundle for symfony2",
     "keywords": ["poll", "question", "vote"],
-    "homepage": "https://github.com/emiliemarchand/PrismPollBundle",
+    "homepage": "https://github.com/TiiToo/PrismPollBundle",
     "license": "MIT",
     "authors": [
         {
